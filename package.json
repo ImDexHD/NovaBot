@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Nova Network Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "discord.js": "^11.1.0",
+    "minecraft-protocol": "^1.8.1",
+    "moment": "^2.22.2",
+    "ms": "^2.0.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4"
+  }
+}
