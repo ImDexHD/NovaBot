@@ -83,5 +83,4 @@ client.on('error', e => {
     console.log(e);
 });
 
-//client.login("NDk1MzA1MDkyNjY1MTgwMTYw.DpFGxQ.0DFRr7D5V3LoftDLq5RYE3UvYTo");
 client.login(process.env.BOT_TOKEN);
